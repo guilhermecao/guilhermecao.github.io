@@ -264,7 +264,7 @@ a:focus {
 
 /*============== 3. Hero ==============*/
 .hero {
-	background-image: url('../img/hero.jpg'); /* Change to your image here */
+	background-image: url('../img/hero.png'); /* Change to your image here */
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -306,7 +306,7 @@ a:focus {
 
 @media(min-width: 992px) {
 	.hero {
-		min-height: 90vh;
+		min-height: 110vh;
 	}
 
 	.hero__wreath {
