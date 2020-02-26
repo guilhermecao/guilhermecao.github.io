@@ -175,6 +175,7 @@
 		emailjs.send(service_id, template_id, template_params)
 		.then(function(response) {
 			$('.js-loader').hide();
+			$('.js-form-confirmation').show();
 			console.log('SUCCESS!', response.status, response.text);
 		}, function(error) {
 			$('.js-loader').hide();
