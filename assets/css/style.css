@@ -623,6 +623,9 @@ a:focus {
 .slider-list {
 	list-style: none;
 	margin-bottom: 25px;
+	box-shadow: 1px 1px 1px 1px lightgrey;
+    width: 90%;
+    margin: auto;
 }
 
 .slider-list .slick-list {
