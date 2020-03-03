@@ -273,11 +273,11 @@ a:focus {
 }
 
 .hero__title {
-	font-size: 60px;
+	font-size: 100px;
 }
 
 .hero__wreath {
-	width: 250px;
+	width: 200px;
 }
 
 .hero__wreath--up {
@@ -623,7 +623,7 @@ a:focus {
 .slider-list {
 	list-style: none;
 	margin-bottom: 25px;
-	box-shadow: 1px 1px 1px 1px lightgrey;
+
     width: 90%;
     margin: auto;
 }
