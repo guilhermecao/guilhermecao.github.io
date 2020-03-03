@@ -41,6 +41,7 @@
 		centerPadding: '5%',
 		slidesToShow: 5,
 		autoplay: true,
+		infinite: false,
 		prevArrow: '.js-arrow-prev',
 		nextArrow: '.js-arrow-next',
 		focusOnSelect: true,

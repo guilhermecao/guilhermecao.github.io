@@ -4,7 +4,7 @@
 	Author:			theme_div
 	Type:          	CSS
 	Last Update:   	29.09.2018
-	Primary color:	#ffd7d7 (pink)
+	Primary color:	#bcd1ba (green)
 
 
 	[Table of contents]
@@ -146,7 +146,7 @@ a:focus {
 }
 
 .icon--primary {
-	color: #ffd7d7;
+	color: #bcd1ba;
 }
 
 .icon--white {
@@ -158,7 +158,7 @@ a:focus {
 }
 
 .icon:hover {
-	color: #ffd7d7;
+	color: #bcd1ba;
 }
 
 /* fix for IE */
@@ -244,7 +244,7 @@ a:focus {
 }
 
 .u-bg-primary {
-	background-color: #ffd7d7;
+	background-color: #bcd1ba;
 }
 
 /* margins */
@@ -867,7 +867,7 @@ background-color: #e9f7e7
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	background-color: #ffd7d7;
+	background-color: #bcd1ba;
 	border: 0;
 	text-transform: uppercase;
 	font-size: 20px;
