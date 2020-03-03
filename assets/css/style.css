@@ -624,7 +624,7 @@ a:focus {
 	list-style: none;
 	margin-bottom: 25px;
 
-    width: 90%;
+    width: 120%;
     margin: auto;
 }
 
@@ -648,7 +648,7 @@ a:focus {
 	width: 92%;
 	max-width: 180px;
 	border-radius: 50%;
-	margin-bottom: 20px;
+	margin-bottom: 0px;
 	display: inline!important;
 	transition: box-shadow .4s ease;
 	-webkit-transition: box-shadow .4s ease;
