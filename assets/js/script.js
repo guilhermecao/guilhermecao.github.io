@@ -38,9 +38,10 @@
 	/*==== 2. Friends slider  ====*/
 	var $slider = $('.js-slider').slick({
 		centerMode: true,
-		centerPadding: '5%',
-		slidesToShow: 5,
-		autoplay: true,
+		centerPadding: '10%',
+		marginLeft:'-70px',
+		slidesToShow: 4,
+		autoplay: false,
 		infinite: false,
 		prevArrow: '.js-arrow-prev',
 		nextArrow: '.js-arrow-next',

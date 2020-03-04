@@ -660,7 +660,8 @@ a:focus {
 .slider-list__item p {
 	font-size: 18px;
 	margin-bottom: 0px;
-	display: block;
+	display: none;
+	
 }
 
 .slider-list__item.slick-current img {
