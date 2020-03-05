@@ -4,7 +4,7 @@
 	Author:			theme_div
 	Type:          	CSS
 	Last Update:   	29.09.2018
-	Primary color:	#bcd1ba (green)
+	Primary color:	#7cb99a (green)
 
 
 	[Table of contents]
@@ -30,6 +30,13 @@
 
 
 /*============== 1. General ==============*/
+@font-face {
+    font-family: 'Aerotis Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Aerotis Regular'), url('Aerotis.woff') format('woff');
+}
+
 @font-face {
     font-family: 'Noelan Script';
     src: url('../fonts/noelan/noelan.eot');
@@ -73,11 +80,11 @@ h1 {
 }
 
 h2 {
-	font-size: 32px;
+	font-size: 55px;
 }
 
 h3 {
-	font-size: 28px;
+	font-size: 26px;
 }
 
 h4 {
@@ -199,9 +206,9 @@ a:focus {
 
 /* fonts */
 .u-font-script {
-	font-family: 'Noelan Script', serif;
+	font-family: 'Aerotis Regular', serif;
 	word-spacing: 8px;
-	color: #3f544b
+	color: #000000
 }
 
 .u-font-script__title{
@@ -213,11 +220,11 @@ a:focus {
 }
 
 .u-h2 {
-	font-size: 32px;
+	font-size: 50px;
 }
 
 .u-h3 {
-	font-size: 28px;
+	font-size: 50px;
 }
 
 .u-h4 {
@@ -241,6 +248,8 @@ a:focus {
 
 .u-bg-white {
 	background-color: #fff;
+	box-shadow:   1px 2px 20px 10px black;
+
 }
 
 .u-bg-primary {
@@ -684,7 +693,7 @@ a:focus {
 .quote {
 	padding: 90px 0;
 	position: relative;
-	background-color: #a0b5ad;
+	background-color: #97c19a;
 	color: white
 }
 
