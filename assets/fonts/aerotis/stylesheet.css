@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Aerotis';
+    src: url('Aerotis.eot');
+    src: url('Aerotis.eot?#iefix') format('embedded-opentype'),
+        url('Aerotis.woff2') format('woff2'),
+        url('Aerotis.woff') format('woff'),
+        url('Aerotis.ttf') format('truetype'),
+        url('Aerotis.svg#Aerotis') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
