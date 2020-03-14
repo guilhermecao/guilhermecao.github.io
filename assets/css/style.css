@@ -315,6 +315,13 @@ a:focus {
 	font-style: initial;
 }
 
+@media(max-width: 768px) {
+	.hero {
+		min-height: 50vh;
+	}
+	
+	
+}
 
 @media(min-width: 768px) {
 	.hero__title {
@@ -676,6 +683,7 @@ a:focus {
 .slider-list__item p {
 	font-size: 18px;
 	margin-bottom: 0px;
+	margin-left:-50px;
 	display: none;
 	
 }
@@ -690,9 +698,9 @@ a:focus {
 	display: block;
 }
 
-@media(min-width: 768px) {
-	.slider-list__item img {
-		max-width: 200px;
+@media(max-width: 600px) {
+	.slider-list__item p {
+		display:none !important
 	}
 }
 

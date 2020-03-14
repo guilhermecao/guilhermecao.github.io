@@ -50,14 +50,14 @@
 			{
 			breakpoint: 1200,
 			settings: {
-				slidesToShow: 3
+				slidesToShow: 4
 				}
 			},
 			{
-			breakpoint: 480,
+			breakpoint: 780,
 			settings: {
 				arrows: false,
-				slidesToShow: 1
+				slidesToShow: 4
 				}
 			}
 		]
